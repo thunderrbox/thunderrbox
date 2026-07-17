@@ -74,10 +74,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 <br/>
 
-<!-- 🏆 GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- 📈 Contribution Graph -->
+<h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thunderrbox&theme=radial&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderrbox&bg_color=0d1117&color=58a6ff&line=9b5de5&point=f15bb5&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -89,15 +89,15 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=thunderrbox&show_icons=true&theme=radial" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=thunderrbox&show_icons=true&theme=radial" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderrbox&layout=compact&theme=radial" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thunderrbox&layout=compact&theme=radial" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thunderrbox&theme=radial" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thunderrbox&theme=radial" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -125,6 +125,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg">
   </picture>
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+<br/>
+
+<!-- 💭 Programming Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial" alt="Dev Quote" />
 </div>
 
 <br/>
