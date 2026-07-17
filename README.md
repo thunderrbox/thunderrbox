@@ -1,27 +1,27 @@
 <!-- 💫 Dynamic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Abhijeet%20Singh%20Rana&fontSize=50&desc=B.Tech%20CSE%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=Hi%20👋,%20I'm%20Abhijeet%20Singh%20Rana&amp;fontSize=50&amp;desc=B.Tech%20CSE%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Engineer&amp;descAlignY=70&amp;descAlign=50" alt="Header" />
 </div>
 
 <!-- 🌐 Social Links & Views -->
 <div align="center">
   <a href="https://github.com/thunderrbox" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-thunderrbox-1817C7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-thunderrbox-1817C7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://abhirana.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-abhirana.me-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-abhirana.me-0078D4?style=for-the-badge&amp;logo=microsoft-edge&amp;logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=thunderrbox/thunderrbox&label=Profile%20Views&countColor=%230078D4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=thunderrbox/thunderrbox&amp;label=Profile%20Views&amp;countColor=%230078D4&amp;style=for-the-badge" alt="Profile Views" />
 
   <!-- PLACEHOLDERS: Fill these in with your real URLs in the future 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="YOUR_LEETCODE_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=white" alt="LeetCode" />
   </a>
   <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   -->
 </div>
@@ -96,8 +96,6 @@
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=thunderrbox&amp;theme=radial&amp;version=3.1" alt="GitHub Streak" />
 </div>
 
 <br/>
