@@ -77,7 +77,7 @@
 <!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderrbox&bg_color=0d1117&color=58a6ff&line=00f5d4&point=00f5d4&area=true&hide_border=true&version=3.0" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderrbox&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=00f5d4&amp;point=00f5d4&amp;area=true&amp;hide_border=true&amp;version=3.1" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -89,15 +89,15 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-stats-extended.vercel.app/api?username=thunderrbox&show_icons=true&theme=radial&version=3.0" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=thunderrbox&amp;show_icons=true&amp;theme=radial&amp;version=3.1" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thunderrbox&layout=compact&theme=radial&version=3.0" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thunderrbox&amp;layout=compact&amp;theme=radial&amp;version=3.1" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=thunderrbox&theme=radial&version=3.0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thunderrbox&amp;theme=radial&amp;version=3.1" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -121,9 +121,9 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake-dark.svg?version=3.0">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=3.0">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=3.0">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake-dark.svg?version=3.1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=3.1">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=3.1">
   </picture>
 </div>
 
@@ -133,7 +133,7 @@
 
 <!-- 💭 Programming Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radial&amp;version=3.1" alt="Dev Quote" />
 </div>
 
 <br/>
@@ -142,5 +142,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" alt="Footer" />
 </div>
