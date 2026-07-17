@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Abhijeet%20Singh%20Rana&fontSize=50&desc=B.Tech%20CSE%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=70&descAlign=50" alt="Header" />
 </div>
 
-<!-- 🌐 Social Links -->
+<!-- 🌐 Social Links & Views -->
 <div align="center">
   <a href="https://github.com/thunderrbox" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-thunderrbox-1817C7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -11,7 +11,8 @@
   <a href="https://abhirana.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-abhirana.me-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
   </a>
-  
+  <img src="https://api.visitorbadge.io/api/visitors?path=thunderrbox/thunderrbox&label=Profile%20Views&countColor=%230078D4&style=for-the-badge" alt="Profile Views" />
+
   <!-- PLACEHOLDERS: Fill these in with your real URLs in the future 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -106,81 +107,11 @@
 <!-- 🚀 Flagship Projects -->
 <h2 align="center">🚀 Flagship Projects</h2>
 
-<div align="center">
-  <table border="1" cellpadding="10" cellspacing="0">
-    <thead>
-      <tr style="background-color: #0d1117;">
-        <th>Project Name & Links</th>
-        <th>Description</th>
-        <th>Key Features & Tech Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <b>CodeInsight Engine</b>
-          <br/><br/>
-          <i>Solo Project</i>
-        </td>
-        <td>
-          A high-performance online judge system featuring containerized execution.
-        </td>
-        <td>
-          <ul>
-            <li>Docker-sandboxed code execution</li>
-            <li>BullMQ/Redis asynchronous pipeline</li>
-            <li>Static-analysis scoring</li>
-            <li><b>Tech:</b> TS/JS, Node.js, Express, Docker, Redis</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <b>Dispatchly</b>
-          <br/><br/>
-          <a href="https://dispatchlyhey.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=microsoft-edge&logoColor=white" alt="Live Demo" />
-          </a>
-          <br/>
-          <i>Solo Project</i>
-        </td>
-        <td>
-          A full-stack logistics and courier dispatch platform.
-        </td>
-        <td>
-          <ul>
-            <li>Haversine courier matching algorithm</li>
-            <li>Volumetric pricing engine</li>
-            <li>Insert-only audit ledger for transaction integrity</li>
-            <li><b>Tech:</b> React, Node.js, Express, MongoDB</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <b>KORE</b>
-          <br/><br/>
-          <a href="https://github.com/thunderrbox/KORE" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub_Repo-1817C7?style=flat&logo=github&logoColor=white" alt="GitHub Repo" />
-          </a>
-          <br/>
-          <i>Team Project (Final Year)</i>
-        </td>
-        <td>
-          A comprehensive mentorship and communication platform.
-        </td>
-        <td>
-          <ul>
-            <li>GPT-4 AI mentorship agent</li>
-            <li>Razorpay integration for payments</li>
-            <li>Real-time video conferencing via Stream Video SDK</li>
-            <li><b>Tech:</b> React, Node.js, Express, GPT-4</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Project Name & Links | Description | Key Features & Tech Stack |
+| :--- | :--- | :--- |
+| **CodeInsight Engine** <br><br> _Solo Project_ | A high-performance online judge system featuring containerized execution. | `TypeScript` `Node.js` `Express` `Docker` `Redis` `BullMQ`<br><br>• Docker-sandboxed code execution<br>• BullMQ/Redis asynchronous pipeline<br>• Static-analysis scoring |
+| **Dispatchly** <br><br> [![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=microsoft-edge&logoColor=white)](https://dispatchlyhey.vercel.app) <br><br> _Solo Project_ | A full-stack logistics and courier dispatch platform. | `React` `Node.js` `Express` `MongoDB`<br><br>• Haversine courier matching algorithm<br>• Volumetric pricing engine<br>• Insert-only audit ledger for transaction integrity |
+| **KORE** <br><br> [![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-1817C7?style=flat&logo=github&logoColor=white)](https://github.com/thunderrbox/KORE) <br><br> _Team Project (Final Year)_ | A comprehensive mentorship and communication platform. | `React` `Node.js` `Express` `GPT-4` `Razorpay` `Stream Video SDK`<br><br>• GPT-4 AI mentorship agent<br>• Razorpay integration for payments<br>• Real-time video conferencing via Stream Video SDK |
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
