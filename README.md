@@ -44,9 +44,9 @@
       </td>
       <td valign="top" width="50%">
         <ul>
-          <li>💼 <b>Status:</b> Open for software engineering internships and full-time roles</li>
+          <li>💼 <b>Status:</b> Open for internships, full-time roles, and actively seeking freelancing work</li>
           <li>🌐 <b>Portfolio:</b> Check out my work live at <a href="https://abhirana.me" target="_blank">abhirana.me</a></li>
-          <li>⚡ <b>Fun Fact:</b> I love building solo & team monorepos and designing insert-only audit ledgers</li>
+          <li>⚡ <b>Fun Fact:</b> Ready to build solo & team monorepos and repositories, and design insert-only audit ledgers</li>
           <li>📬 <b>Reach Out:</b> To connect, please go through my LinkedIn or Portfolio. I will get back to you as soon as possible!</li>
         </ul>
       </td>
