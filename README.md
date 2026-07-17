@@ -77,7 +77,7 @@
 <!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderrbox&bg_color=0d1117&color=58a6ff&line=9b5de5&point=f15bb5&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderrbox&bg_color=0d1117&color=58a6ff&line=00f5d4&point=00f5d4&area=true&hide_border=true&version=2.0" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -89,15 +89,15 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=thunderrbox&show_icons=true&theme=radial" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=thunderrbox&show_icons=true&theme=radial&version=2.0" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thunderrbox&layout=compact&theme=radial" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thunderrbox&layout=compact&theme=radial&version=2.0" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=thunderrbox&theme=radial" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thunderrbox&theme=radial&version=2.0" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -121,9 +121,9 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake-dark.svg?version=2.0">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=2.0">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/thunderrbox/thunderrbox/output/github-snake.svg?version=2.0">
   </picture>
 </div>
 
