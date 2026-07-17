@@ -39,13 +39,15 @@
           <li>🎓 <b>Education:</b> Final-year B.Tech CSE student at PSIT Kanpur (graduating 2027)</li>
           <li>🚀 <b>Passionate about:</b> Full-Stack web development, scalable microservices, and AI integrations (GPT-4/LLM & RAG)</li>
           <li>🛠️ <b>Core Strength:</b> Designing end-to-end architectures (Docker-sandboxed execution, async job pipelines)</li>
+          <li>👯 <b>Collaboration:</b> Open for collaboration on exciting open-source and full-stack projects!</li>
         </ul>
       </td>
       <td valign="top" width="50%">
         <ul>
           <li>💼 <b>Status:</b> Open for software engineering internships and full-time roles</li>
           <li>🌐 <b>Portfolio:</b> Check out my work live at <a href="https://abhirana.me" target="_blank">abhirana.me</a></li>
-          <li>⚡ <b>Fun Fact:</b> I love building solo monorepos and designing insert-only audit ledgers</li>
+          <li>⚡ <b>Fun Fact:</b> I love building solo & team monorepos and designing insert-only audit ledgers</li>
+          <li>📬 <b>Reach Out:</b> To connect, please go through my LinkedIn or Portfolio. I will get back to you as soon as possible!</li>
         </ul>
       </td>
     </tr>
